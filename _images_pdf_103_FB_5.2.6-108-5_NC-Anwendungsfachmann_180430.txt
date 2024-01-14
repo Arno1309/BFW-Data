@@ -1,0 +1,83 @@
+Technische Berufe
+NC-Anwendungsfachleute erstellen Programme 
+für die automatisierte (programmgesteuerte) spa-
+nende Fertigung (beispielsweise Drehen, Fräsen) 
+von Werkstücken. Dabei setzen sie die Vorgaben 
+aus technischen Zeichnungen in werkstoff- und 
+fertigungsgerechte Funktionsfolgen der Werk-
+zeugmaschine um. Sie arbeiten an besonderen 
+Arbeitsplätzen, die mit der nötigen Simulations-
+software zum Testen der Programme ausgestattet 
+sind. Sie nehmen die Maschineneinrichtung vor, 
+setzen die Fertigungseinrichtungen in Betrieb, 
+überwachen die Fertigungsschritte und beseiti-
+gen Störungen im Fertigungsablauf.Ausbildung
+Dauer: 24 Monate
+Externes betriebliches Praktikum inklusiveAbschluss: IHK-Prüfung
+Zusatzqualiﬁ  kation
+QualitätsmanagementCADShop Turn (Siemens)Shop Mill (Siemens)FB_5.2.6-108-5 180430 Änderungen vorbehalten 
+ 
+NC-Anwendungsfachmann/NC-AnwendungsfachfrauNC-Anwendungsfachmann/NC-Anwendungsfachfrau
+Anforderungen / Voraussetzungen
+Der Schwerpunkt der Tätigkeiten von NC-Anwen-
+dungsfachleuten liegt im Entwickeln und Erpro-
+ben von Steuerungen für CNC-Werkzeugmaschi-nen und in der Durchführung von Zerspanungs-
+aufgaben. Sie gehen sowohl mit datentechnischen 
+wie maschinentechnischen Arbeitsmitteln um. 
+Bei der Einrichtung von Maschinen kommen sie 
+auch mit Schmier- und Kühlmitteln sowie mit Spä-
+nen in Berührung. Ihre Arbeit ist körperlich über-
+wiegend leicht. Sie üben sie im Sitzen und – etwa 
+bei der Maschineneinrichtung – im Stehen aus. Der Arbeitsablauf ist durch schriftliche Aufträge oder mündliche Vorgaben geregelt. Einzelarbeit 
+wechselt mit Arbeiten ab, die im Team erledigt 
+werden. Teilweise haben sie Kontakt zu Kunden und zu Maschinenherstellern. Bei Inbetriebnah-
+me, Wartung und Reparatur können auch Außen-
+diensttätigkeiten möglich sein.
+Einsatzmöglichkeiten
+NC-Anwendungsfachleute arbeiten überall dort, 
+wo computergesteuerte Fertigungsmaschinen 
+zum Einsatz kommen. Meist sind dies Industrie-
+betriebe, beispielsweise des Maschinen- und An-
+lagenbaus oder des Fahrzeug- und Werkzeug-
+baus. Aber auch in der Holz- und Kunststoffverar-
+beitung, der Textilindustrie oder der Verarbeitung 
+von Steinen und Erden sind sie beschäftigt. In 
+Büroräumen erstellen sie an Bildschirmarbeits-
+plätzen u. a. Programme anhand von technischen 
+Zeichnungen, während sie in Maschinen- und 
+Werkhallen CNC-Maschinen einrichten oder Stö-rungen beseitigen. Für die Einarbeitung von Mit-
+arbeitern halten sie sich gelegentlich in Schu-
+lungsräumen auf. Wer sich für eine Tätigkeit im 
+Service oder Vertrieb entschieden hat, ist viel im 
+Außendienst unterwegs und besucht Kunden oder 
+arbeitet bei der Inbetriebnahme von CNC-Maschi-
+nen an wechselnden Arbeitsorten.
+Dauer und Abschluss
+Die Ausbildung dauert 24 Monate. Sie endet mit 
+der Abschlussprüfung vor der Industrie- und Han-
+delskammer, die das Prüfungszeugnis ausstellt.Ausbildungsinhalte / Lernfelder
+ ▪Werkzeug und Fertigungstechnik
+ ▪Steuerungstechnik
+ ▪Elektrotechnik
+ ▪Wartungslehrgang für CNC-Maschinen
+ ▪Zeichnungslesen
+ ▪Technische Kommunikation
+ ▪Fachrechnen und mathematische Grundlagen
+ ▪Fachkunde
+ ▪Prüf- und Qualitätstechnik
+ ▪Informationstechnik
+ ▪Projektarbeit
+Schwerpunkte der Ausbildung sind:
+ ▪Programmieren nach vorgegebenen Zeich-nungen
+ ▪Bedienen, Warten und Pﬂ  egen von CNC-Maschinen
+ ▪Eingabe von Programmkorrekturen
+ ▪Korrigieren von Werkzeugdaten
+ ▪Testen und Optimieren von Programmen
+ ▪Einrichten der Werkzeuge und Maschinen
+Informationen
+Georg Fohrmann Telefon 0231  7109-499
+Anmeldung
+Jessica Estko Telefon 0231  7109-365Ingrid Schott Telefon 0231  7109-367 Telefax 0231  7109-366
+Hacheneyer Straße 180 . 44265 Dortmund
+Telefon 0231 7109-0 . Fax 0231 7109-456
+www.bfw-dortmund.de . info@bfw-dortmund.de

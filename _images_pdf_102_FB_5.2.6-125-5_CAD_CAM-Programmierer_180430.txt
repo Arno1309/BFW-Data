@@ -1,0 +1,65 @@
+Technische Berufe
+CAD-/CAM-Programmierer sind Fachleute für die 
+Erstellung und Anwendung von CNC-Programmen 
+für Werkzeugmaschinen in Kopplung mit profes-
+sionellen 2D- und 3D-CAD-Systemen. Dabei set -
+zen sie die Vorgaben aus CAD-Datensätzen in Ar -
+beitspläne und fertigungsgerechte Funktionsfol-gen um. An Bildschirmarbeitsplätzen testen und 
+kontrollieren sie den Programmablauf mit Hilfe 
+einer Simulationssoftware. Danach nehmen sie 
+die Maschineneinrichtung vor, optimieren das 
+Programm und überwachen den Fertigungsablauf 
+an der Maschine. Ausbildung
+Dauer: 12 Monateexternes betriebliches Praktikum inklusiveAbschluss: BFW-Zertifikat
+Zusatzqualifikation
+QualitätsmanagementFB_5.2.6-125-5 18.04.30 Änderungen vorbehalten  
+ 
+CAD-/CAM-Programmierer/ProgrammiererinCAD-/CAM-Programmierer/Programmiererin
+Anforderungen / Voraussetzungen
+Die Qualifi  zierung richtet sich an Teilnehmer und 
+Teilnehmerinnen, die über Grundkenntnisse im 
+Bereich der Zerspanung von Metallen oder ande-
+ren Werkstoffen verfügen. Der Schwerpunkt der 
+Tätigkeiten von CAD-/CAM-Programmierern liegt 
+im Entwickeln und Erproben von NC-Programmen 
+für CNC-Werkzeugmaschinen und in Kopplung mit 
+2D- und 3D-CAD-Programmen.
+Einsatzmöglichkeiten
+CAD-/CAM-Programmierer arbeiten überall dort, 
+wo computergesteuerte Fertigungsmaschinen 
+zum Einsatz kommen. Meist sind dies Industrie-
+betriebe, beispielsweise des Maschinen- und An-
+lagenbaus oder des Fahrzeug- und Werkzeug-
+baus. Aber z. B. auch in der Holz- und Kunststoff-
+verarbeitung, der Textilindustrie oder der Ver-
+arbeitung von Steinen und Erden sind sie beschäf-
+tigt. In Büroräumen erstellen sie an Bildschirmar-
+beitsplätzen unter anderem Programme anhand 
+von CAD-Zeichnungen.
+Dauer und Abschluss
+Die Ausbildung dauert 12 Monate. Der qualifi  zier-
+te Abschluss wird durch ein Hauszeugnis und 
+externe Zertifi  kate bescheinigt.Ausbildungsinhalte / Lernfelder
+ ▪Aufbau und Funktion von CNC-Werkzeug-maschinen
+ ▪Einrichten und Bedienen von CNC-Werkzeug-maschinen
+ ▪Werkzeugauswahl und -bereitstellung
+ ▪Bedienen von CNC-Steuerungen
+ ▪Aufbau von CNC-Programmen
+ ▪Kontrolle des Arbeitsablaufs
+ ▪Maßkontrolle und Programmoptimierung
+ ▪Programmieren nach vorgegebenen Zeich-nungen
+ ▪Eingabe von Programmkorrekturen
+ ▪Korrigieren von Werkzeugdaten
+ ▪Testen und Optimieren von Programmen
+ ▪Einrichten der Werkzeuge und Maschinen
+ ▪Erstellen von CAD 2D/CAD 3D-Zeichnungen
+ ▪Programmieren mit Shop-Mill
+ ▪Programmieren mit Shop-Turn
+ ▪Bedienung der Software MTS 2D
+Informationen
+Georg Fohrmann Telefon 0231  7109-499
+Anmeldung
+Jessica Estko Telefon 0231  7109-365Ingrid Schott Telefon 0231  7109-367 Telefax 0231  7109-366
+Hacheneyer Straße 180 . 44265 Dortmund
+Telefon 0231 7109-0 . Fax 0231 7109-456
+www.bfw-dortmund.de . info@bfw-dortmund.de
